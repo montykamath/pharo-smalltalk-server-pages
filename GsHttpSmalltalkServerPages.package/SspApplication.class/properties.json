@@ -1,0 +1,15 @@
+{
+	"category" : "GsHttpSmalltalkServerPages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Current" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"httpService",
+		"fileServerDelegate" ],
+	"name" : "SspApplication",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

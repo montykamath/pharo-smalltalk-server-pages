@@ -1,0 +1,14 @@
+{
+	"category" : "GsHttpSmalltalkServerPages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"toDoList" ],
+	"name" : "ExampleToDoPg",
+	"pools" : [
+		 ],
+	"super" : "SspPage",
+	"type" : "normal" }

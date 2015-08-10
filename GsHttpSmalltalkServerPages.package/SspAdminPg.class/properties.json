@@ -1,0 +1,14 @@
+{
+	"category" : "GsHttpSmalltalkServerPages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SspAdminPg",
+	"pools" : [
+		 ],
+	"super" : "SspPage",
+	"type" : "normal" }

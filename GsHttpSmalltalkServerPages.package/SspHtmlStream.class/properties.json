@@ -1,0 +1,15 @@
+{
+	"category" : "GsHttpSmalltalkServerPages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"HtmlEntities" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stream",
+		"level" ],
+	"name" : "SspHtmlStream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

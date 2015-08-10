@@ -1,0 +1,18 @@
+{
+	"category" : "GsHttpSmalltalkServerPages",
+	"classinstvars" : [
+		"cachedPageContents" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"request",
+		"fields",
+		"session",
+		"outputStream",
+		"response" ],
+	"name" : "SspPage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

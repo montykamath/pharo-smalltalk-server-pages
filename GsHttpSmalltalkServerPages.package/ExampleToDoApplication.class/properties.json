@@ -1,0 +1,14 @@
+{
+	"category" : "GsHttpSmalltalkServerPages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ExampleToDoApplication",
+	"pools" : [
+		 ],
+	"super" : "SspApplication",
+	"type" : "normal" }

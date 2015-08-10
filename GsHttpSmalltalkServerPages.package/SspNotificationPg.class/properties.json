@@ -1,0 +1,17 @@
+{
+	"category" : "GsHttpSmalltalkServerPages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"title",
+		"message",
+		"continueUrl",
+		"continueButtonText" ],
+	"name" : "SspNotificationPg",
+	"pools" : [
+		 ],
+	"super" : "SspPage",
+	"type" : "normal" }

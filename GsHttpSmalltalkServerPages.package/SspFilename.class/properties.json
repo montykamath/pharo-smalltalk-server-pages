@@ -1,0 +1,14 @@
+{
+	"category" : "GsHttpSmalltalkServerPages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JM 4/18/2007 16:10",
+	"instvars" : [
+		"underlyingFilename" ],
+	"name" : "SspFilename",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

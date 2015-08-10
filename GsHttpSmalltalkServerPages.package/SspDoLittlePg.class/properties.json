@@ -1,0 +1,14 @@
+{
+	"category" : "GsHttpSmalltalkServerPages",
+	"classinstvars" : [
+		"filenamesToContents" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"filename" ],
+	"name" : "SspDoLittlePg",
+	"pools" : [
+		 ],
+	"super" : "SspPage",
+	"type" : "normal" }
